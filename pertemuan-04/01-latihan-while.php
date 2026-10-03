@@ -1,0 +1,31 @@
+<?php
+/*
+ * Judul Materi : Latihan 1 - While
+ * Nama         : Akbar Aditiya Sugianto
+ * NIM          : 231011403729
+ * Kelas        : 07 TPLM 004
+ * Universitas  : Universitas Pamulang
+ */
+
+$brush_price = 5;
+$counter = 10;
+
+echo "<table border=\"1\" align=\"center\">";
+echo "<tr><th>Quantity</th>";
+echo "<th>Price</th></tr>";
+
+while ($counter <= 100) {
+
+    echo "<tr><td>";
+    echo $counter;
+    echo "</td><td>";
+
+    echo $brush_price * $counter;
+
+    echo "</td></tr>";
+
+    $counter = $counter + 10;
+}
+
+echo "</table>";
+?>
