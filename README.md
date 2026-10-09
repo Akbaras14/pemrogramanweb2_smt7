@@ -43,6 +43,8 @@ Source code latihan disusun berdasarkan materi perkuliahan yang diberikan pada s
 | **Pertemuan 5** | Manipulasi Berkas | [Lihat Materi](./pertemuan-05/README.md) |
 | **Pertemuan 6** | Array | [Lihat Materi](./pertemuan-06/README.md) |
 | **Pertemuan 7** | Array Lanjutan | [Lihat Materi](./pertemuan-07/README.md) |
+| **Pertemuan 8** | Function | [Lihat Materi](./pertemuan-08/README.md) |
+| **Pertemuan 9** | Function Lanjutan | [Lihat Materi](./pertemuan-09/README.md) |
 ---
 
 ## Ringkasan Materi
@@ -132,6 +134,30 @@ Pada pertemuan ketujuh mempelajari fungsi-fungsi lanjutan dalam penggunaan array
 📂 [Buka Pertemuan 7](./pertemuan-07/README.md)
 ---
 
+
+### Pertemuan 8 — Function
+Pada pertemuan kedelapan mempelajari fungsi dalam PHP, meliputi:
+- Penulisan fungsi dan aturan penamaan
+- Fungsi built-in, UDF, dan eksternal
+- Parameter dan nilai kembalian
+- Operasi aritmatika menggunakan UDF
+- Parameter default dan pengulangan teks
+
+📂 [Buka Pertemuan 8](./pertemuan-08/README.md)
+
+---
+
+### Pertemuan 9 — Function Lanjutan
+Pada pertemuan kesembilan mempelajari fungsi built-in lanjutan, meliputi:
+- Format tanggal dan waktu dengan `date()`
+- Array waktu menggunakan `getdate()`
+- Salam berdasarkan jam
+- Fungsi pengolahan string
+- `require()`, `include()`, dan `include_once()`
+
+📂 [Buka Pertemuan 9](./pertemuan-09/README.md)
+
+---
 
 ## Teknologi yang Digunakan
 
