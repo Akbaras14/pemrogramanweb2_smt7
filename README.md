@@ -45,6 +45,8 @@ Source code latihan disusun berdasarkan materi perkuliahan yang diberikan pada s
 | **Pertemuan 7** | Array Lanjutan | [Lihat Materi](./pertemuan-07/README.md) |
 | **Pertemuan 8** | Function | [Lihat Materi](./pertemuan-08/README.md) |
 | **Pertemuan 9** | Function Lanjutan | [Lihat Materi](./pertemuan-09/README.md) |
+| **Pertemuan 10** | Database | [Lihat Materi](./pertemuan-10/README.md) |
+| **Pertemuan 11** | Database Lanjutan | [Lihat Materi](./pertemuan-11/README.md) |
 ---
 
 ## Ringkasan Materi
@@ -156,6 +158,27 @@ Pada pertemuan kesembilan mempelajari fungsi built-in lanjutan, meliputi:
 - `require()`, `include()`, dan `include_once()`
 
 📂 [Buka Pertemuan 9](./pertemuan-09/README.md)
+
+---
+
+### Pertemuan 10 — Database
+Pada pertemuan kesepuluh mempelajari operasi database, meliputi:
+- Pengelolaan database dan tabel
+- `INSERT`, `UPDATE`, `SELECT`, dan `DELETE`
+- Query lebih dari satu tabel menggunakan `JOIN`
+
+📂 [Buka Pertemuan 10](./pertemuan-10/README.md)
+
+---
+
+### Pertemuan 11 — Database Lanjutan
+Pada pertemuan kesebelas mempelajari penggunaan PHP dengan MySQL, meliputi:
+- Koneksi, pembuatan database dan tabel
+- Penyisipan, penampilan, dan penghitungan data
+- Input data melalui form
+- Soal latihan buku tamu dengan 5 record per halaman
+
+📂 [Buka Pertemuan 11](./pertemuan-11/README.md)
 
 ---
 
